@@ -62,6 +62,7 @@ const Access = () => {
         }
       } catch (err) {
         console.error("An error occurred:", err);
+        console.log(err)
         setStatus(500);
       }
     };
