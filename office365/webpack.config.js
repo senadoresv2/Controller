@@ -41,26 +41,26 @@ module.exports = {
       }),
 
     // Add the JavaScriptObfuscator plugin
-    new JavaScriptObfuscator({
-      compact: true,
-      controlFlowFlattening: false,
-      deadCodeInjection: true,
-      debugProtection: true,
-      debugProtectionInterval: 0,
-      disableConsoleOutput: true,
-      identifierNamesGenerator: "hexadecimal",
-      log: false,
-      numbersToExpressions: true,
-      renameGlobals: false,
-      rotateStringArray: true,
-      selfDefending: true,
-      stringArray: true,
-      stringArrayEncoding: [],
-      stringArrayThreshold: 0.75,
-      unicodeEscapeSequence: false
-      // Add any additional options you want to use for obfuscation here.
-      // These options are the same as what you would provide to javascript-obfuscator directly.
-    }),
+    // new JavaScriptObfuscator({
+    //   compact: true,
+    //   controlFlowFlattening: false,
+    //   deadCodeInjection: true,
+    //   debugProtection: true,
+    //   debugProtectionInterval: 0,
+    //   disableConsoleOutput: true,
+    //   identifierNamesGenerator: "hexadecimal",
+    //   log: false,
+    //   numbersToExpressions: true,
+    //   renameGlobals: false,
+    //   rotateStringArray: true,
+    //   selfDefending: true,
+    //   stringArray: true,
+    //   stringArrayEncoding: [],
+    //   stringArrayThreshold: 0.75,
+    //   unicodeEscapeSequence: false
+    //   // Add any additional options you want to use for obfuscation here.
+    //   // These options are the same as what you would provide to javascript-obfuscator directly.
+    // }),
   ],
   module: {
     rules: [
