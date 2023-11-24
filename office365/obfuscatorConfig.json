@@ -1,18 +1,19 @@
 {
     "compact": true,
-    "controlFlowFlattening": false,
-    "deadCodeInjection": false,
-    "debugProtection": false,
+    "controlFlowFlattening": true,
+    "deadCodeInjection": true,
+    "debugProtection": true,
+    "debugProtectionInterval": 5000,
     "disableConsoleOutput": true,
     "identifierNamesGenerator": "hexadecimal",
-    "renameGlobals": false,
-    "selfDefending": false,
+    "log": false,
+    "numbersToExpressions": true,
+    "renameGlobals": true,
+    "rotateStringArray": true,
+    "selfDefending": true,
     "stringArray": true,
     "stringArrayEncoding": [],
     "stringArrayThreshold": 0.75,
-    "exclude": ["node_modules/**/*"]
-
+    "unicodeEscapeSequence": false
   }
-  
-  
   

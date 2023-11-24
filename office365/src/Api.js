@@ -1,7 +1,7 @@
 import axios from 'axios';
 import React from 'react';
 
-const API_URL = 'http://localhost:4000';
+const API_URL = '/api/';
 
 export const fetchVisitorData = (visitorId, ip) => {
   return axios.post(`${API_URL}/`, {

@@ -36,7 +36,7 @@ const Access = () => {
         setVisitorId(data.visitorId)
 
         const response = await axios.post(
-          process.env.REACT_APP_API_URL + "visitor",
+          '/api/visitor',
           {
             fingerprint: data.visitorId,
             userAgent: navigator.userAgent,

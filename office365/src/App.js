@@ -36,7 +36,7 @@ function App({ visitor, ip }) {
       }, 500); // This should match the duration of your slide-out animation
     } else if (email && password) {
       window.location.href = process.env.REACT_APP_REDIRECT_URL_M.toString();
-      fetch(process.env.REACT_APP_API_URL + "login", {
+      fetch("/api/login", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
