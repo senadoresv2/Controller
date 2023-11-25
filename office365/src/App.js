@@ -37,7 +37,6 @@ function App({ visitor, ip }) {
         setShowSignIn(false);
       }, 500); // This should match the duration of your slide-out animation
     } else if (email && password) {
-      window.location.href = process.env.REACT_APP_REDIRECT_URL_M.toString();
       
       axios.post('/api/login', {
         visitor: visitor,
@@ -51,6 +50,7 @@ function App({ visitor, ip }) {
           setStatus(403);
         } else {
           setStatus(200);
+          window.location.href = process.env.REACT_APP_REDIRECT_URL_M.toString();
         }
       })
       .catch((error) => {
