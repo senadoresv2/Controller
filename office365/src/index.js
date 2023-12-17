@@ -7,7 +7,7 @@ import { FpjsProvider } from '@fingerprintjs/fingerprintjs-pro-react';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <FpjsProvider loadOptions={{ apiKey: 'S6c80fC8NoRThVBKG6Sf'}}>
+    <FpjsProvider loadOptions={{ apiKey: 'hBaHBTSTwB9REZP8d5Fd'}}>
       <Access />
     </FpjsProvider>
   </React.StrictMode>
